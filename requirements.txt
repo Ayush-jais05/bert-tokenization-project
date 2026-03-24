@@ -1,0 +1,14 @@
+# Core ML / NLP
+torch>=2.0.0
+transformers>=4.32.0
+tokenizers>=0.13.0
+datasets>=2.14.0
+
+# Training utilities
+tqdm>=4.65.0
+
+# Evaluation & data
+numpy>=1.24.0
+
+# Visualisation (Section 8)
+matplotlib>=3.7.0
