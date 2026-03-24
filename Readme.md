@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Is5d-3qjTQQGQiWAmtAdc7ovETTkdemL?usp=sharing)
 
-Natural Language Processing — Part 3 | Dataset: SQuAD v1.1 subset (1,000 train / 500 val) | Base model: `bert-base-uncased`
+Natural Language Processing  | Dataset: SQuAD v1.1 subset (1,000 train / 500 val) | Base model: `bert-base-uncased`
 
 ---
 
